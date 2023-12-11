@@ -1,11 +1,20 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&duration=4000&pause=1000&color=FF738E&random=false&width=435&lines=hello!;i'm+Sthefany+Caires+%F0%9F%91%8B" alt="Typing SVG" /></a>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&duration=4000&pause=1000&color=FF738E&random=false&width=435&lines=hello!;i'm+Sthefany+Caires+%F0%9F%91%8B" alt="Typing SVG"></a>
 - 🌱 I’m currently learning Front-End engineering
 - 😄 Pronouns: she/her
+##
 
 <br>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sthefanycaires&show_icons=true&theme=dracula)](https://github.com/sthefanycaires/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanycaires&theme=dracula&layout=compact&langs_count=8)](https://github.com/sthefanycaires/github-readme-stats)
+
+<div display="inline-block">
+  <a href="https://github.com/sthefanycaires">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sthefanycaires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanycaires&layout=compact&langs_count=7&theme=dracula" />
+
+</div>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sthefanycaires&show_icons=true&theme=dracula)](https://github.com/sthefanycaires/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanycaires&theme=dracula&layout=compact&langs_count=8)](https://github.com/sthefanycaires/github-readme-stats) -->
 
 
 ##
