@@ -1,6 +1,6 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&duration=4000&pause=1000&color=FF738E&random=false&width=435&lines=hello!;i'm+Sthefany+Caires+%F0%9F%91%8B" alt="Typing SVG"></a>
-- 🌱 I’m currently learning front-end engineering
+- 🌱 I'm Sthefany, a UX Designer with experience in research, creating interfaces and testing. I'm currently learning more about front-end development.
 - 😄 Pronouns: she/her
 ##
 
